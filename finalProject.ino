@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
-#define FIREBASE_HOST "iotfinal-9af8c-default-rtdb.firebaseio.com"              // the project name address from firebase id
-#define FIREBASE_AUTH "jsqJDnOoVU6SXvDXcMfPuO8j0d88Phk03nOOSjQk"       // the secret key generated from firebase
+#define FIREBASE_HOST "iotfinal-9vdf8c-default-rtdb.firebaseio.com"              // the project name address from firebase id
+#define FIREBASE_AUTH "jsqJDnOoVU6SXvDXcMfPusds0d88Phk03nOOSjQk"       // the secret key generated from firebase
 #define WIFI_SSID "Weber"
 #define WIFI_PASSWORD "88888888"
 
